@@ -1,0 +1,62 @@
+/* .Container {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid lightgrey;
+	margin: 50px auto;
+	width: 50%;
+	padding: 15px;
+} */
+
+/* .Row {
+	align-self: center;
+	margin-bottom: 15px;
+	width: 100%;
+} */
+
+/* .Col {
+	margin-bottom: 2px;
+} */
+
+/* .Title {
+	text-align: center;
+	border-bottom: 1px solid grey;
+	display: flex;
+	font-size: 20px;
+	font-weight: bolder;
+	padding-bottom: 10px;
+} */
+
+/* .Label {
+	font-size: 15px;
+	font-weight: bold;
+} */
+
+/* .TextBox {
+	font-size: 15px;
+	border-radius: 25px;
+	border: 1px solid lightgrey;
+	padding: 5px 10px;
+	outline: none;
+} */
+
+/* .ButtonGroup {
+	display: flex;
+	padding-top: 10px;
+} */
+
+/* .ButtonCol {
+	flex-basis: 16%;
+} */
+
+/* .Button {
+	padding: 10px;
+	border-radius: 25px;
+	border: 1px solid lightgrey;
+	background-color: #0000ffb3;
+	color: #fff;
+	cursor: pointer;
+	outline: none;
+	width: 120px;
+	font-size: 15px;
+	font-weight: bold;
+} */

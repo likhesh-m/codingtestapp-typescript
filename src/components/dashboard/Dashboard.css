@@ -1,0 +1,38 @@
+.Container {
+	display: flex;
+	flex-direction: column;
+	margin: 5% 0;
+}
+
+.Col {
+	flex: 1 1;
+	margin: 5px;
+}
+
+.CenterAligned {
+	text-align: center;
+}
+
+.HorizontalLine {
+	border-bottom: 1px solid lightgrey;
+}
+
+.SearchTextBox {
+	width: 50%;
+	text-align: center;
+	padding: 8px;
+	border-radius: 25px;
+	outline: none;
+	border: 1px solid lightgrey;
+}
+
+.Table {
+	text-align: justify;
+	border: 1px solid lightgrey;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.TableHead {
+	width: 30%;
+}

@@ -1,0 +1,28 @@
+.Container {
+	display: flex;
+	flex-direction: column;
+	margin: 30px;
+	border: 1px solid lightgray;
+}
+
+.Col {
+	flex: 1 1;
+	margin: 10px;
+}
+
+.TitleRow {
+	text-align: center;
+	border-bottom: 1px solid lightgrey;
+	padding: 5px 0;
+	background-color: lightgray;
+}
+
+.Title {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.LabelText {
+	font-size: 15px;
+	font-weight: bold;
+}
