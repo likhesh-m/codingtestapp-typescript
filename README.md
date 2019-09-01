@@ -1,2 +1,2 @@
-# odingtestapp-typescript
-odingtestapp-typescript
+# codingtestapp-typescript
+codingtestapp-typescript
